@@ -1,0 +1,17 @@
+{
+  "name": "@jcyd/components",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@jcyd/components_v1.0.1",
+      "date": "Wed, 07 Sep 2022 10:31:03 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "first publish"
+          }
+        ]
+      }
+    }
+  ]
+}
