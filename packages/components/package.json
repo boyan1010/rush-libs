@@ -1,0 +1,21 @@
+{
+  "name": "@jcyd/components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jcyd/hooks": "workspace:*",
+    "react": "~18.2.0",
+    "lodash-es": "~4.17.21",
+    "react-dom": "~18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "~4.8.2"
+  }
+}
